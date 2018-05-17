@@ -23,7 +23,7 @@ h-hexo_source 生成前的原始文件
 
 qianyuqianxun.github.com 生成后的展示文件
 
-## 初始化好环境之后，常用命令如下：
+## 常用命令如下：
 
 可以将常用的放cmd工具里，然后放代码仓库(bitbacket)上
 
